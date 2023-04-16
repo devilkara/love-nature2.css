@@ -1,0 +1,83 @@
+ .p {
+     text-align: center;
+     color: darkolivegreen;
+     position: relative;
+     right: 320px;
+     left: 270px;
+     bottom: 400px;
+ }
+
+ .a {
+     color: darkolivegreen;
+     font-family: 'Times New Roman', Times, serif;
+
+     position: relative;
+     right: 400px;
+     left: 350px;
+     bottom: 400px;
+ }
+
+ .customize {
+     position: fixed;
+     right: 0px;
+     bottom: 450px;
+ }
+
+ .customize:hover {
+     background-color: cornflowerblue;
+ }
+
+ .s {
+
+
+     right: 400px;
+     left: 280px;
+     position: relative;
+     bottom: 220px;
+     padding-left: 10px;
+     padding-right: 10px;
+     padding-top: 10px;
+     padding-bottom: 10px;
+     border-radius: 4px;
+
+
+ }
+
+ .s:hover {
+     color: darkolivegreen;
+     border-color: darkolivegreen;
+ }
+
+ .b {
+     color: darkolivegreen;
+     right: 400px;
+     left: 350px;
+     position: relative;
+     bottom: 270px;
+ }
+
+ #g {
+     color: darkolivegreen;
+     text-align: center;
+ }
+
+ header {
+     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsg1mqgRMPganW0RI6Ee9U7s1LhGpCYhpdjQ&usqp=CAU);
+ }
+
+ .v {
+
+     color: aliceblue;
+     text-align: center;
+     position: relative;
+     bottom: 40px;
+ }
+
+ .r {
+     background-color: darkolivegreen;
+ }
+
+ .d {
+     color: darkolivegreen;
+ }
+ .l{color: darkolivegreen;}
